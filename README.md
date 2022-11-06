@@ -30,8 +30,6 @@ Start the server
 
 ## Documentation
 
-Root Hosted Link - https://hospital-api-development.onrender.com/
-
 Routes :
 
     a. /signin - Authenticates and returns the JWT token to be used.
