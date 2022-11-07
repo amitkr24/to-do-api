@@ -8,7 +8,8 @@ const passport = require("passport"); // passort added
 console.log("router added");
 router.get("/", function (req, res) {
   return res.json(400, {
-    message: "Please request the correct routes!",
+    message:
+      'Please request the correct routes! Check "https://github.com/amitkr24/to-do-api/blob/main/README.md" for documentation.',
   });
 });
 
